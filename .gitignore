@@ -1,0 +1,5 @@
+/.coverage
+/cov_html/
+/allure/
+/venv/
+/.idea/
